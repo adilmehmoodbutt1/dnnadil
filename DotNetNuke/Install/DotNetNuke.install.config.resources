@@ -27,15 +27,15 @@
     <AuthenticatedCacheability>4</AuthenticatedCacheability>
     <UnauthenticatedCacheability>4</UnauthenticatedCacheability>
     <AutoAccountUnlockDuration>10</AutoAccountUnlockDuration>
-    <AutoAddPortalAlias>N</AutoAddPortalAlias>
-    <CheckUpgrade>Y</CheckUpgrade>
+    <AutoAddPortalAlias>Y</AutoAddPortalAlias>
+    <CheckUpgrade>N</CheckUpgrade>
     <ControlPanel>Admin/ControlPanel/ControlBar.ascx</ControlPanel>
     <IgnoreControlPanelWrapper>Y</IgnoreControlPanelWrapper>
     <Copyright>Y</Copyright>
     <DemoPeriod></DemoPeriod>
     <DemoSignup>N</DemoSignup>
     <DisplayBetaNotice>Y</DisplayBetaNotice>
-    <EnableFileAutoSync>Y</EnableFileAutoSync>
+    <EnableFileAutoSync>N</EnableFileAutoSync>
     <EnableContentLocalization>N</EnableContentLocalization>
     <EnableModuleOnLineHelp>Y</EnableModuleOnLineHelp>
     <EnableRequestFilters>N</EnableRequestFilters>
